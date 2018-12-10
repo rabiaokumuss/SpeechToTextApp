@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Save"
+        android:orderInCategory="100"
+        android:title="@string/action_Save"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/NameNote"
+        android:orderInCategory="100"
+        android:title="@string/action_NameNote"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/DeleteNote"
+        android:orderInCategory="100"
+        android:title="@string/action_DeleteNote"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/SwitchLanguage"
+        android:orderInCategory="100"
+        android:title="SwitchLanguage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ShowPunctuation-Keyboard"
+        android:orderInCategory="100"
+        android:title="ShowPunctuation-Keyboard"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532544032311",
+    "firebase_url": "https://speechnoteapp.firebaseio.com",
+    "project_id": "speechnoteapp",
+    "storage_bucket": "speechnoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532544032311:android:7f00f28cb523b9a4",
+        "android_client_info": {
+          "package_name": "com.example.rabia.speechnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532544032311-epk36158c32369rifvchqa3271khjinq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rabia.speechnoteapp",
+            "certificate_hash": "11e8f61ed228f58d366552090f364093b26186e4"
+          }
+        },
+        {
+          "client_id": "532544032311-70jqug85eebqb8urcepbjilfngg98k66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qHw8KiDuDmL1XU8UDD5c0Ndl3wmPtxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532544032311-70jqug85eebqb8urcepbjilfngg98k66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
